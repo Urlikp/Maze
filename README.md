@@ -6,6 +6,7 @@ Vytvořeno v Unity
 
 více info na **[WIKI](https://github.com/Urlikp/Maze/wiki)**
 
+This is a mirror public repository. Original is located on FEE CTU internal GitLab.
 
 ## Členové týmu
 
