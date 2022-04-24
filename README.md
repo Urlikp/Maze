@@ -2,6 +2,8 @@
 
 First-person singleplayer adventure/puzzle hra Maze
 
+Vytvořeno v Unity
+
 více info na **[WIKI](https://github.com/Urlikp/Maze/wiki)**
 
 
