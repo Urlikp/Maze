@@ -12,6 +12,12 @@ Click on image to play trailer:
 
 [![Maze-video](http://img.youtube.com/vi/QNWx-1hbS0A/0.jpg)](https://youtu.be/QNWx-1hbS0A)
 
+Screenhots:
+
+![Screenshot_01](https://github.com/Urlikp/Maze/blob/main/Media/screenshot01.jpg)
+![Screenshot_02](https://github.com/Urlikp/Maze/blob/main/Media/screenshot02.jpg)
+![Screenshot_03](https://github.com/Urlikp/Maze/blob/main/Media/screenshot03.jpg)
+
 ## Členové týmu
 
 * František Ezr <ezrfrant@fel.cvut.cz> - Leader
